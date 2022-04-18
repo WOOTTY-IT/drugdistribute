@@ -1,0 +1,15 @@
+version: '3'
+services:
+  apache:
+    image: porchn/php5.6-apache
+    container_name: apache
+    ports:
+      - 80:80
+    volumes:
+      - ./apache2/conf:/etc/apache2/sites-enabled
+      - ./apache2/www:/var/www
+      - ./apache2/logs:/var/log/apache2
+      - ./php.ini:/usr/local/etc/php/php.ini
+    environment:
+      - TZ=Asia/Bangkok
+    restart: always
