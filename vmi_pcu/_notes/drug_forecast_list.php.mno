@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_search" value="name:sum_qty;datatype:real,name:drug_name;datatype:string,name:pack_ratio;datatype:int,name:remain;datatype:real,name:sale_unit;datatype:string" />
+</info>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_group" value="name:dept_group_id;datatype:int,name:dept_group_name;datatype:string,name:stock_month;datatype:int,name:hospmain;datatype:string" />
+	<infoitem key="UD_rs_hospcode" value="name:hospcode;datatype:string,name:hospname;datatype:string,name:dept_group_id;datatype:int" />
+	<infoitem key="UD_rs_user" value="name:id;datatype:int,name:hospcode;datatype:string,name:username;datatype:string,name:password;datatype:string,name:member_status;datatype:string,name:hospcode_type_id;datatype:int" />
+	<infoitem key="UD_rs_edit" value="name:id;datatype:int,name:hospcode;datatype:string,name:username;datatype:string,name:password;datatype:string,name:member_status;datatype:string,name:hospcode_type_id;datatype:int" />
+	<infoitem key="UD_rs_hosptype" value="name:id;datatype:int,name:hospcode_type_name;datatype:string" />
+	<infoitem key="UD_rs_item_type" value="name:id;datatype:int,name:item_type_name;datatype:string" />
+</info>

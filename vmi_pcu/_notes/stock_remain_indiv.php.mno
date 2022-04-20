@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_stodk2" value="name:drug_name;datatype:string,name:sumqty;datatype:real,name:pack_ratio;datatype:int,name:sale_unit;datatype:string,name:sumcost;datatype:real,name:working_code;datatype:string,name:hospname;datatype:string" />
+</info>

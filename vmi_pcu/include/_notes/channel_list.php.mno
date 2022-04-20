@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_channel" value="name:room_id;datatype:int,name:room_name;datatype:string,name:channel;datatype:string,name:patient_name;datatype:string,name:call_datetime;datatype:datetime,name:hn;datatype:string,name:sex;datatype:string" />
+</info>

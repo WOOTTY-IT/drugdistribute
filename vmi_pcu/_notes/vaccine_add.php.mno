@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_dept" value="name:dept_group_id;datatype:int,name:dept_group_name;datatype:string,name:stock_month;datatype:int,name:hospmain;datatype:string" />
+	<infoitem key="UD_rs_vaccine" value="name:id;datatype:int,name:vaccine_name;datatype:string,name:vaccine_factor;datatype:real,name:doses;datatype:int" />
+	<infoitem key="UD_rs_project" value="name:id;datatype:int,name:vaccine_project;datatype:string" />
+</info>

@@ -1,0 +1,11 @@
+label.error {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	color: #F00;
+	background-image: url(false.png);
+	background-repeat: no-repeat;
+	padding-left: 18px;
+	float: none;
+}
+.required {
+}

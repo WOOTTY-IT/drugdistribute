@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_group_age" value="name:group_age;datatype:int,name:group_age_detail;datatype:string,name:working_code;datatype:string,name:factor;datatype:real" />
+	<infoitem key="UD_rs_setting" value="name:chwpart;datatype:string,name:amppart;datatype:string,name:stock_date;datatype:int,name:end_date;datatype:int,name:out_off_stock;datatype:string,name:vaccine_end_date;datatype:int,name:vaccine_method;datatype:int" />
+	<infoitem key="UD_rs_ferrous" value="name:id;datatype:int,name:group_age;datatype:int,name:hospcode;datatype:string,name:target;datatype:int,name:order_date;datatype:date,name:group_age_detail;datatype:string,name:drug_name;datatype:string" />
+	<infoitem key="UD_rs_drug_confirm" value="name:id;datatype:int,name:group_age;datatype:int,name:hospcode;datatype:string,name:target;datatype:int,name:order_date;datatype:date,name:confirm;datatype:string" />
+</info>

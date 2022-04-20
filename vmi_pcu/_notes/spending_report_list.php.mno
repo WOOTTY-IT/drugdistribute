@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_sub_po" value="name:id;datatype:int,name:sub_po_no;datatype:string,name:month_year;datatype:string,name:hospcode;datatype:string" />
+	<infoitem key="UD_rs_spending" value="name:id;datatype:int,name:sub_po_no;datatype:string,name:month_year;datatype:string,name:hospcode;datatype:string,name:hospname;datatype:string,name:date_po;datatype:string,name:year;datatype:string,name:month;datatype:string" />
+</info>

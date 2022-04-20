@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_stock" value="name:id;datatype:int,name:hospcode;datatype:string,name:working_code;datatype:string,name:lot;datatype:string,name:exp_date;datatype:date,name:remain_qty;datatype:int,name:pack_ratio;datatype:int,name:total_cost;datatype:real" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_setting" value="name:chwpart;datatype:string,name:amppart;datatype:string,name:stock_date;datatype:int,name:end_date;datatype:int,name:out_off_stock;datatype:string" />
+	<infoitem key="UD_rs_drug_confirm" value="name:id;datatype:int,name:drug_take_date;datatype:date,name:hospcode;datatype:string,name:working_code;datatype:string,name:among;datatype:int,name:confirm;datatype:string" />
+</info>

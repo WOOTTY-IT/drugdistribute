@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_drug" value="name:id;datatype:int,name:drug_name;datatype:string,name:qty;datatype:real,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:working_code;datatype:string,name:action;datatype:string,name:buy_unit_cost;datatype:real" />
+	<infoitem key="UD_rs_delete" value="name:id;datatype:int,name:hospcode;datatype:string,name:working_code;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:buy_unit_cost;datatype:real,name:c_id;datatype:int,name:action;datatype:string" />
+</info>

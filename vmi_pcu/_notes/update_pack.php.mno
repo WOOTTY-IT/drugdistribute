@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_inv_md" value="name:record_number;datatype:real,name:standard_code;datatype:string,name:working_code;datatype:string,name:drug_name_key;datatype:string,name:drug_name;datatype:string,name:dosage_form;datatype:string,name:sale_unit;datatype:string,name:composition;datatype:string,name:group_code;datatype:string,name:std_ratio;datatype:int" />
+</info>

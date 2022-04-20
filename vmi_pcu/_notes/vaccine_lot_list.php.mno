@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_vaccine1" value="name:vaccine_name;datatype:string,name:id;datatype:int" />
+	<infoitem key="UD_rs_vaccine2" value="name:id;datatype:int,name:date_take;datatype:string,name:vaccine_id;datatype:int,name:vaccine_lot;datatype:string,name:vaccine_exp;datatype:date,name:hospcode;datatype:string,name:amppart;datatype:string,name:chwpart;datatype:string,name:name;datatype:string" />
+</info>

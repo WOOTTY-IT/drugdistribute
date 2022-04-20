@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_month_rate" value="name:count_rate;datatype:int" />
+	<infoitem key="UD_rs_dbcenter" value="name:hospcode;datatype:string,name:did;datatype:string,name:sumqty;datatype:real" />
+</info>

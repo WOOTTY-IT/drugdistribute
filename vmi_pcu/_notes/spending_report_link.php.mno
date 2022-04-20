@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_sm_po" value="name:drug_name;datatype:string,name:qty_rcv1;datatype:real,name:pack_ratio1;datatype:real,name:cost1;datatype:real,name:sub_po_date;datatype:date" />
+</info>

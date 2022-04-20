@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_import" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:order_month;datatype:string" />
+</info>

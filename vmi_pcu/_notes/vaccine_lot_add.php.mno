@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_vaccine" value="name:id;datatype:int,name:vaccine_name;datatype:string,name:vaccine_factor;datatype:real,name:doses;datatype:int" />
+	<infoitem key="UD_rs_reciever" value="name:hospcode;datatype:string,name:name;datatype:string,name:hosptype;datatype:string" />
+	<infoitem key="UD_rs_dept_edit" value="name:id;datatype:int,name:board_id;datatype:int,name:hospcode;datatype:string,name:review;datatype:int" />
+	<infoitem key="UD_rs_vaccine_edit" value="name:id;datatype:int,name:date_take;datatype:string,name:vaccine_id;datatype:int,name:vaccine_lot;datatype:string,name:vaccine_exp;datatype:date,name:hospcode;datatype:string,name:amppart;datatype:string,name:chwpart;datatype:string" />
+</info>

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_drug" value="name:id;datatype:int,name:hospcode;datatype:string,name:pid;datatype:string,name:seq;datatype:string,name:date_serv;datatype:date,name:clinic;datatype:string,name:didstd;datatype:string,name:dname;datatype:string,name:amount;datatype:int,name:unit;datatype:string,name:unit_packing;datatype:int,name:drugprice;datatype:real,name:drugcost;datatype:real,name:provider;datatype:string,name:d_update;datatype:datetime,name:data_flag;datatype:string,name:date_upload;datatype:date,name:date_serv;datatype:string" />
+	<infoitem key="UD_rs_setting" value="name:chwpart;datatype:string,name:amppart;datatype:string,name:stock_date;datatype:int,name:end_date;datatype:int,name:out_off_stock;datatype:string,name:vaccine_end_date;datatype:int,name:vaccine_method;datatype:int,name:dbcenter;datatype:string" />
+</info>

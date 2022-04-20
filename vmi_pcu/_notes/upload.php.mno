@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_check" value="name:TABLE_CATALOG;datatype:string,name:TABLE_SCHEMA;datatype:string,name:TABLE_NAME;datatype:string,name:TABLE_TYPE;datatype:string,name:ENGINE;datatype:string,name:VERSION;datatype:int,name:ROW_FORMAT;datatype:string,name:TABLE_ROWS;datatype:int,name:AVG_ROW_LENGTH;datatype:int,name:DATA_LENGTH;datatype:int,name:MAX_DATA_LENGTH;datatype:int,name:INDEX_LENGTH;datatype:int,name:DATA_FREE;datatype:int,name:AUTO_INCREMENT;datatype:int,name:CREATE_TIME;datatype:datetime,name:UPDATE_TIME;datatype:datetime,name:CHECK_TIME;datatype:datetime,name:TABLE_COLLATION;datatype:string,name:CHECKSUM;datatype:int,name:CREATE_OPTIONS;datatype:string,name:TABLE_COMMENT;datatype:string" />
+	<infoitem key="UD_rs_order" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:order_month;datatype:string" />
+</info>

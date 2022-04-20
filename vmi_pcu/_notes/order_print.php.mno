@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_hospcode" value="name:hospname;datatype:string" />
+	<infoitem key="UD_rs_order" value="name:drug_name;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int" />
+	<infoitem key="UD_rs_order2" value="name:qty;datatype:int,name:pack_ratio;datatype:int" />
+	<infoitem key="UD_rs_order3" value="name:remain_qty;datatype:int,name:pack_ratio;datatype:int" />
+	<infoitem key="UD_rs_order4" value="name:max_level;datatype:int" />
+</info>

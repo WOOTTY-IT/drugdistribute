@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_hospcode" value="name:amppart;datatype:string,name:chwpart;datatype:string,name:hospcode;datatype:string,name:hosptype;datatype:string,name:name;datatype:string,name:tmbpart;datatype:string,name:moopart;datatype:string,name:sss_code;datatype:string,name:sss_code_sub;datatype:string,name:hospcode506;datatype:string,name:hospital_type_id;datatype:int,name:bed_count;datatype:int,name:po_code;datatype:string,name:hospital_level_id;datatype:int,name:hospital_phone;datatype:string,name:hospital_fax;datatype:string,name:hos_guid;datatype:string,name:hos_guid_ext;datatype:string,name:hospname;datatype:string" />
+	<infoitem key="UD_rs_hosptype" value="name:hosptype;datatype:string,name:hospcode;datatype:string" />
+	<infoitem key="UD_rs_pr" value="name:countdrug;datatype:int,name:withdraw_date;datatype:string,name:withdraw_no;datatype:string" />
+</info>

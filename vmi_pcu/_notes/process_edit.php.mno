@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_items" value="name:working_code;datatype:string,name:drug_name;datatype:string,name:pack_ratio;datatype:int,name:buy_unit_cost;datatype:real,name:remain;datatype:int,name:vendor_code;datatype:string,name:sale_unit;datatype:string,name:supply_type;datatype:int" />
+	<infoitem key="UD_rs_remain" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:date_remain;datatype:date,name:vmi_date;datatype:string,name:data_flag;datatype:string" />
+	<infoitem key="UD_rs_month" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:date_remain;datatype:date,name:vmi_date;datatype:string,name:order_date;datatype:string,name:data_flag;datatype:string" />
+	<infoitem key="UD_rs_order" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:order_month;datatype:string,name:remain;datatype:int" />
+</info>

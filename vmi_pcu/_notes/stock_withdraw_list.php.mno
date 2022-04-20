@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_drug" value="name:id;datatype:int,name:drug_name;datatype:string,name:qty;datatype:real,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:working_code;datatype:string" />
+</info>

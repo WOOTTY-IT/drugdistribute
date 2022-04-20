@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_setting" value="name:chwpart;datatype:string,name:amppart;datatype:string,name:stock_date;datatype:int,name:end_date;datatype:int,name:out_off_stock;datatype:string,name:vaccine_end_date;datatype:int,name:vaccine_method;datatype:int,name:dbcenter;datatype:string,name:token_vaccine;datatype:string" />
+	<infoitem key="UD_rs_area" value="name:chwpart;datatype:string,name:amppart;datatype:string,name:stock_date;datatype:int,name:end_date;datatype:int,name:out_off_stock;datatype:string,name:vaccine_end_date;datatype:int,name:vaccine_method;datatype:int,name:dbcenter;datatype:string,name:token_vaccine;datatype:string" />
+</info>

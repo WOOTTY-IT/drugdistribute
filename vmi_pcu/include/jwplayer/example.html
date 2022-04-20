@@ -1,0 +1,109 @@
+
+<html>
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=tis-620">
+<title>:: ทำ JW PLAYER เล่นไฟล์มีเดียวีดีโอ MP4,FLV,Youtube,ฯลฯ บนหน้าเว็บไซต์ (Media Video Player) ::</title>
+<STYLE type=text/css>
+  A:link { color: #0000cc; text-decoration:none}
+  A:visited {color: #0000cc; text-decoration: none}
+  A:hover {color: red; text-decoration: none}
+ </STYLE>
+<style type="text/css">
+<!--
+small { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; } 
+input, textarea { font-family: Arial, Helvetica, sans-serif; font-size: 9pt; } 
+b { font-family: Arial, Helvetica, sans-serif; font-size: 12pt; } 
+big { font-family: Arial, Helvetica, sans-serif; font-size: 16pt; } 
+strong { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight : extra-bold; } 
+font, td { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; } 
+BODY { font-size: 11pt; font-family: Arial, Helvetica, sans-serif; } 
+-->
+</style>
+
+
+</head>
+
+<body>
+<center>
+<big>:: ทำ JW PLAYER เล่นไฟล์มีเดียวีดีโอ MP4,FLV,Youtube,ฯลฯ บนหน้าเว็บไซต์ (Media Video Player) ::</big>
+
+<br><br>
+ตัว JW PLAYER รองรับไฟล์ VDO หลากหลายรูปแบบ ไม่ว่าจะเป็น MP4 , FLV , Youtube และอื่นๆอีกมากมาย ดูรายละเอียดเพิ่มเติม <a href="http://www.longtailvideo.com/support/jw-player/jw-player-for-flash-v5/12539/supported-video-and-audio-formats" target="_blank">คลิ๊กที่นี่ !!</a>
+
+<br><br>
+<font color="red">* สามารถ View Source ดู HTML CODE ที่หน้านี้ และ Copy Sourcecode ไปใช้ได้เลยครับ *</font>
+<br><br>
+
+<div id="mediaplayer1">JW Player goes here</div>
+<script type="text/javascript" src="jwplayer.js"></script>
+	
+<script type="text/javascript">
+		
+jwplayer("mediaplayer1").setup({
+			
+     flashplayer: "player.swf",
+			
+     file: "video.mp4",
+			
+     image: "preview.jpg"
+		
+});
+	
+</script>
+<br>รูปแบบที่ 1 : ใช้ไฟล์ .MP4 ของตัวเอง ในเครื่อง Server
+
+
+
+<br><br>
+
+<div id="mediaplayer2">JW Player goes here</div>
+<script type="text/javascript" src="jwplayer.js"></script>
+	
+<script type="text/javascript">
+		
+jwplayer("mediaplayer2").setup({
+			
+     flashplayer: "player.swf",
+			
+     file: "http://i159.photobucket.com/download-albums/t131/glomps-are-fun/Tokyo.mp4",
+			
+     image: "preview2.jpg"
+		
+});
+	
+</script>
+<br>รูปแบบที่ 2 : ใช้ไฟล์ .MP4 ของคนอื่น ผ่านไฟล์ URL
+
+
+
+<br><br>
+
+<div id="mediaplayer3">JW Player goes here</div>
+<script type="text/javascript" src="jwplayer.js"></script>
+	
+<script type="text/javascript">
+		
+jwplayer("mediaplayer3").setup({
+			
+     flashplayer: "player.swf",
+			
+     file: "http://www.youtube.com/watch?v=Tc7FRCUBHzk",
+			
+     image: "preview3.jpg"
+		
+});
+	
+</script>
+<br>รูปแบบที่ 3 : ใช้ไฟล์ของ Youtube
+
+
+<br><br>
+<hr width="75%"><b>
+พัฒนาโดย : <a href="http://www.longtailvideo.com/players/jw-flv-player" target="_blank">JW Player</a>
+<br>อธิบายเพิ่มเติมโดย : <a href="http://www.codetukyang.com" target="_blank">CodeTukYang.Com</a>
+</b><hr width="75%">
+</center>
+</body>
+
+</html>

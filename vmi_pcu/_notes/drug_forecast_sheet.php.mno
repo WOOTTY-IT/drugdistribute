@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_report" value="name:hospname;datatype:string,name:drug_name;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int" />
+</info>

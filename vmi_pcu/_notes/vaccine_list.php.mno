@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_search" value="name:id;datatype:int,name:vaccine_id;datatype:int,name:vaccine_project;datatype:int,name:hospcode;datatype:int,name:chwpart;datatype:string,name:amppart;datatype:string" />
+	<infoitem key="UD_rs_project" value="name:id;datatype:int,name:vaccine_project;datatype:string" />
+	<infoitem key="UD_vaccine_list" value="name:vaccine_name;datatype:string,name:vaccine_project;datatype:int,name:vaccine_id;datatype:int" />
+	<infoitem key="UD_rs_project2" value="name:id;datatype:int,name:vaccine_project;datatype:string" />
+</info>

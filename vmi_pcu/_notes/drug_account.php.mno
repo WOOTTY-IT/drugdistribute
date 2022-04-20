@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_drug" value="name:max_level;datatype:int,name:working_code;datatype:string,name:drug_name;datatype:string,name:pack_ratio;datatype:int,name:buy_unit_cost;datatype:real,name:remain;datatype:int,name:vendor_code;datatype:string,name:sale_unit;datatype:string,name:supply_type;datatype:int,name:stdcode;datatype:string" />
+	<infoitem key="UD_rs_hospcode" value="name:hospcode;datatype:string" />
+	<infoitem key="UD_rs_hospcode1" value="name:hosptype;datatype:string,name:name;datatype:string,name:hospcode;datatype:string" />
+	<infoitem key="UD_rs_drug1" value="name:dname;datatype:string" />
+	<infoitem key="UD_rs_setting" value="name:chwpart;datatype:string,name:amppart;datatype:string,name:stock_date;datatype:int,name:end_date;datatype:int,name:out_off_stock;datatype:string,name:vaccine_end_date;datatype:int,name:vaccine_method;datatype:int,name:dbcenter;datatype:string" />
+</info>

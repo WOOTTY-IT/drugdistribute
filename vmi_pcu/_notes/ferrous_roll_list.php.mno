@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_drug_roll" value="name:hospcode;datatype:string,name:order_date;datatype:date,name:count(*);datatype:int,name:hospname;datatype:string,name:confirm;datatype:string,name:month;datatype:string" />
+	<infoitem key="UD_rs_date_period" value="name:max(order_date);datatype:date,name:min(order_date);datatype:date" />
+</info>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_sel_drug" value="name:drug_name;datatype:string,name:working_code;datatype:string,name:didstd;datatype:string,name:sumqty;datatype:int,name:pack_ratio;datatype:int,name:percent_cutpoint;datatype:int,name:ym_rate;datatype:string" />
+	<infoitem key="UD_sel_remain" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:date_remain;datatype:date,name:vmi_date;datatype:string,name:order_date;datatype:string,name:data_flag;datatype:string" />
+	<infoitem key="UD_sel_drug1" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:order_month;datatype:string" />
+	<infoitem key="UD_rs_order" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:order_month;datatype:string" />
+	<infoitem key="UD_sel_remain2" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:date_remain;datatype:date,name:vmi_date;datatype:string,name:order_date;datatype:string,name:data_flag;datatype:string" />
+	<infoitem key="UD_sel_drug2" value="name:id;datatype:int,name:hospcode;datatype:string,name:stdcode;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:order_month;datatype:string" />
+	<infoitem key="UD_rs_dept" value="name:id;datatype:int,name:dept_group_id;datatype:int,name:working_code;datatype:string,name:max_level;datatype:int" />
+	<infoitem key="UD_rs_order3" value="name:remain_qty;datatype:int,name:pack_ratio;datatype:int" />
+	<infoitem key="UD_rs_order4" value="name:max_level;datatype:int" />
+	<infoitem key="UD_sel_drug3" value="name:id;datatype:int" />
+</info>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_item" value="name:working_code;datatype:string,name:drug_name;datatype:string" />
+	<infoitem key="UD_rs_selected" value="name:id;datatype:int,name:receive_no;datatype:string,name:hospcode;datatype:string,name:working_code;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:remain_qty;datatype:int,name:buy_unit_cost;datatype:real" />
+	<infoitem key="UD_rs_pack" value="name:pack_ratio;datatype:int" />
+	<infoitem key="UD_sel_item" value="name:id;datatype:int,name:r_id;datatype:int,name:qty_order;datatype:int,name:pack_ratio;datatype:int" />
+	<infoitem key="UD_sum_qty" value="name:sum_qty;datatype:real" />
+	<infoitem key="UD_rs_search" value="name:id;datatype:int,name:hospcode;datatype:string,name:r_id;datatype:int,name:working_code;datatype:string,name:qty_order;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date" />
+	<infoitem key="UD_rs_drug" value="name:id;datatype:int,name:hospcode;datatype:string,name:r_id;datatype:int,name:working_code;datatype:string,name:qty_order;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:buy_unit_cost;datatype:real,name:c_id;datatype:int,name:action;datatype:string" />
+	<infoitem key="UD_rs_selected2" value="name:id;datatype:int,name:hospcode;datatype:string,name:r_id;datatype:int,name:working_code;datatype:string,name:qty_order;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:buy_unit_cost;datatype:real,name:c_id;datatype:int,name:action;datatype:string" />
+</info>

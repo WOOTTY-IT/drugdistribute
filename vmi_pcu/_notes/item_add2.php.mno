@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_item" value="name:working_code;datatype:string,name:drug_name;datatype:string,name:pack_ratio;datatype:int,name:buy_unit_cost;datatype:real,name:remain;datatype:int,name:vendor_code;datatype:string,name:sale_unit;datatype:string,name:supply_type;datatype:int" />
+	<infoitem key="UD_rs_edit" value="name:id;datatype:int,name:dept_group_id;datatype:int,name:working_code;datatype:string,name:max_level;datatype:int,name:on_demand;datatype:string,name:pack_ratio;datatype:int,name:sale_unit;datatype:string,name:max_pack;datatype:real" />
+</info>

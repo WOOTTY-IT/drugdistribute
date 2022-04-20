@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_msg_reciev" value="name:id;datatype:int,name:date_send;datatype:date,name:hospcode;datatype:string,name:sender;datatype:string,name:head;datatype:string,name:detail;datatype:blob,name:id;datatype:int,name:board_id;datatype:int,name:hospcode;datatype:string,name:review;datatype:int" />
+	<infoitem key="UD_rs_sent" value="name:id;datatype:int,name:date_send;datatype:date,name:hospcode;datatype:string,name:sender;datatype:string,name:head;datatype:string,name:detail;datatype:blob" />
+</info>

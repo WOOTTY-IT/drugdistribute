@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_drug_indiv" value="name:vaccine_name;datatype:string,name:vaccine_factor;datatype:real,name:doses;datatype:int,name:id;datatype:int,name:vaccine_id;datatype:int,name:vaccine_project;datatype:int,name:target;datatype:int,name:remain;datatype:int,name:last_visit;datatype:int,name:last_use;datatype:int,name:vaccine_take_date;datatype:date,name:year;datatype:string,name:month;datatype:string,name:hospcode;datatype:string,name:confirm;datatype:string" />
+</info>

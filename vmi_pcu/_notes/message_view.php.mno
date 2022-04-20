@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_message" value="name:head;datatype:string,name:detail;datatype:blob,name:sender;datatype:string,name:date_send;datatype:date,name:hospname;datatype:string" />
+</info>

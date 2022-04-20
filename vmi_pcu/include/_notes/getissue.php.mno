@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_claim" value="name:driver_claim_no;datatype:string,name:date_operations;datatype:date,name:driver_insurance;datatype:string,name:bs;datatype:string,name:issue;datatype:real" />
+</info>

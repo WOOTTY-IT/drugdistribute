@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_dept" value="name:hospcode;datatype:string" />
+	<infoitem key="UD_rs_month" value="name:monthyear;datatype:string" />
+	<infoitem key="UD_rs_item_type" value="name:id;datatype:int,name:item_type_name;datatype:string" />
+	<infoitem key="UD_rs_item_type2" value="name:id;datatype:int,name:item_type_name;datatype:string" />
+	<infoitem key="UD_rs_date_period" value="name:max(drug_take_date);datatype:date,name:min(drug_take_date);datatype:date" />
+	<infoitem key="UD_drug_roll" value="name:hospcode;datatype:string,name:drug_take_date;datatype:date,name:count(*);datatype:int,name:hospname;datatype:string,name:confirm;datatype:string,name:month;datatype:string" />
+</info>

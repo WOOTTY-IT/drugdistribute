@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_amphur" value="name:amphur_id;datatype:int,name:amphur_code;datatype:string,name:amphur_name;datatype:string,name:postcode;datatype:string,name:geo_id;datatype:int,name:province_id;datatype:int" />
+</info>

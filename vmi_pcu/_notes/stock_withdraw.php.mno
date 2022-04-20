@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_serial" value="name:hospcode;datatype:string,name:receive_no;datatype:int,name:withdraw_no;datatype:int" />
+	<infoitem key="UD_rs_sereial2" value="name:hospcode;datatype:string,name:receive_no;datatype:int,name:withdraw_no;datatype:int" />
+	<infoitem key="UD_item_count" value="name:sumprice;datatype:real,name:sumitem;datatype:int" />
+	<infoitem key="UD_rs_card" value="name:id;datatype:int,name:hospcode;datatype:string,name:working_code;datatype:string,name:operation_date;datatype:date,name:r_s_status;datatype:string,name:r_s_number;datatype:string,name:dept_id;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:cost;datatype:real,name:remain_qty;datatype:int" />
+	<infoitem key="UD_rs_card2" value="name:id;datatype:int,name:hospcode;datatype:string,name:working_code;datatype:string,name:operation_date;datatype:date,name:r_s_status;datatype:string,name:r_s_number;datatype:string,name:dept_id;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:cost;datatype:real,name:remain_qty;datatype:int" />
+	<infoitem key="UD_rs_search" value="name:id;datatype:int,name:hospcode;datatype:string,name:r_id;datatype:int,name:working_code;datatype:string,name:qty_order;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date" />
+	<infoitem key="UD_rs_search2" value="name:id;datatype:int,name:receive_no;datatype:string,name:hospcode;datatype:string,name:working_code;datatype:string,name:qty;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:remain_qty;datatype:int,name:buy_unit_cost;datatype:real" />
+	<infoitem key="UD_rs_lot" value="name:sumremain;datatype:real,name:sumcost;datatype:real" />
+	<infoitem key="UD_rs_temp" value="name:id;datatype:int,name:hospcode;datatype:string,name:r_id;datatype:int,name:working_code;datatype:string,name:qty_order;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:buy_unit_cost;datatype:real,name:c_id;datatype:int,name:action;datatype:string" />
+	<infoitem key="UD_rs_temp2" value="name:id;datatype:int,name:withdraw_no;datatype:string,name:hospcode;datatype:string,name:r_id;datatype:int,name:working_code;datatype:string,name:qty_order;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:buy_unit_cost;datatype:real,name:action;datatype:string" />
+	<infoitem key="UD_rs_temp3" value="name:id;datatype:int,name:withdraw_no;datatype:string,name:hospcode;datatype:string,name:r_id;datatype:int,name:working_code;datatype:string,name:qty_order;datatype:int,name:pack_ratio;datatype:int,name:lot;datatype:string,name:exp_date;datatype:date,name:buy_unit_cost;datatype:real,name:action;datatype:string" />
+	<infoitem key="UD_rs_dept" value="name:dept_code;datatype:string,name:dept_group_name;datatype:string" />
+</info>

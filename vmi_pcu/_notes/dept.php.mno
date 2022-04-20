@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_chw" value="name:province_id;datatype:int,name:province_code;datatype:string,name:province_name;datatype:string,name:geo_id;datatype:int" />
+	<infoitem key="UD_rs_dept" value="name:dept_group_id;datatype:int,name:dept_group_name;datatype:string,name:stock_month;datatype:int" />
+</info>
